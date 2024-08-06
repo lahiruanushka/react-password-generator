@@ -18,5 +18,5 @@ A simple and customizable password generator built with React and styled using T
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   https://github.com/lahiruanushka/react-password-generator.git
    cd password-generator
