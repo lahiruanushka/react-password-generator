@@ -12,7 +12,7 @@ input[type="range"] {
 }
 
 label {
-  @apply block text-gray-300 mt-2;
+  @apply block text-gray-300 mt-2 mb-2;
 }
 
 .checkbox-container {
